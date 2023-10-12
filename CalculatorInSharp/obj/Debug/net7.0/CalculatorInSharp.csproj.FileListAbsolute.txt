@@ -1,0 +1,15 @@
+C:\Users\drewj\source\repos\CalculatorInSharp\bin\Debug\net7.0\CalculatorInSharp.exe
+C:\Users\drewj\source\repos\CalculatorInSharp\bin\Debug\net7.0\CalculatorInSharp.deps.json
+C:\Users\drewj\source\repos\CalculatorInSharp\bin\Debug\net7.0\CalculatorInSharp.runtimeconfig.json
+C:\Users\drewj\source\repos\CalculatorInSharp\bin\Debug\net7.0\CalculatorInSharp.dll
+C:\Users\drewj\source\repos\CalculatorInSharp\bin\Debug\net7.0\CalculatorInSharp.pdb
+C:\Users\drewj\source\repos\CalculatorInSharp\obj\Debug\net7.0\CalculatorInSharp.csproj.AssemblyReference.cache
+C:\Users\drewj\source\repos\CalculatorInSharp\obj\Debug\net7.0\CalculatorInSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drewj\source\repos\CalculatorInSharp\obj\Debug\net7.0\CalculatorInSharp.AssemblyInfoInputs.cache
+C:\Users\drewj\source\repos\CalculatorInSharp\obj\Debug\net7.0\CalculatorInSharp.AssemblyInfo.cs
+C:\Users\drewj\source\repos\CalculatorInSharp\obj\Debug\net7.0\CalculatorInSharp.csproj.CoreCompileInputs.cache
+C:\Users\drewj\source\repos\CalculatorInSharp\obj\Debug\net7.0\CalculatorInSharp.dll
+C:\Users\drewj\source\repos\CalculatorInSharp\obj\Debug\net7.0\refint\CalculatorInSharp.dll
+C:\Users\drewj\source\repos\CalculatorInSharp\obj\Debug\net7.0\CalculatorInSharp.pdb
+C:\Users\drewj\source\repos\CalculatorInSharp\obj\Debug\net7.0\CalculatorInSharp.genruntimeconfig.cache
+C:\Users\drewj\source\repos\CalculatorInSharp\obj\Debug\net7.0\ref\CalculatorInSharp.dll
