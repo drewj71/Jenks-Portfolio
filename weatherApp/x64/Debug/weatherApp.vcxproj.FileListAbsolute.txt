@@ -1,0 +1,4 @@
+C:\Users\drewj\source\repos\weatherApp\x64\Debug\weatherApp.vcxproj.CopyComplete
+C:\Users\drewj\source\repos\weatherApp\x64\Debug\weatherApp.exe
+C:\Users\drewj\source\repos\weatherApp\x64\Debug\libcurl-d.dll
+C:\Users\drewj\source\repos\weatherApp\x64\Debug\zlibd1.dll
